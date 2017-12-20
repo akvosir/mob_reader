@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LMPnote</string>
+    <string name="hint_title">title</string>
+    <string name="hint_ent_note">enter your note</string>
+    <string name="hint_cancel">cancel</string>
+    <string name="hint_update">update</string>
+</resources>
